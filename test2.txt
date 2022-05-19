@@ -1,1 +1,2 @@
 hello
+ example of a simple file edit
